@@ -1,4 +1,3 @@
-![Screenshot_1639497009](https://user-images.githubusercontent.com/33726993/146640439-bd9da197-3ed9-41c2-8b24-3fafdda098cb.png)
 # MuduPay-Frontend
 
 ## Required Features
@@ -36,9 +35,8 @@ $ none
 
 ## Pivotal Tracker stories
 
-
-
 ## Template UI
+![Screenshot_1639497009](https://user-images.githubusercontent.com/33726993/146640439-bd9da197-3ed9-41c2-8b24-3fafdda098cb.png)
 
 ## Author
 
